@@ -24,6 +24,7 @@ const Heading = styled.h1`
   text-align: left;
   font-weight: 700;
   font-size: 50px;
+  letter-spacing: .2rem;
   margin-bottom: 50px;
   margin-top: 80px;
 
